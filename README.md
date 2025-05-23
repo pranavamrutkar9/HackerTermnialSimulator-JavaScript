@@ -12,15 +12,6 @@ A fun and interactive fake terminal interface built with HTML, CSS, and JavaScri
 
 ---
 
-## 📂 Project Structure
-HackerTermnialSimulator-JavaScript
-├── index.html # Main HTML file
-├── style.css # Styling for terminal appearance
-├── script.js # Message animation logic
-└── README.md # Project documentation
-
----
-
 ## 🌱 Future Ideas
 - Make the terminal scrollable with previous logs
 - Add fake command input line
